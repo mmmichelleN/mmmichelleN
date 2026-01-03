@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, my name is Michelle!
+### Hi there, my name is Michelle!
+
+
 I have worked with the following languages:
 - Java
 - Python
@@ -23,6 +25,6 @@ I have worked with the following languages:
 - RISCV Assembly
 - Verilog
 
-###Current Projects:
+### Current Projects:
 - Art portfolio
 - Caesar cipher
