@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **mmmichelleN/mmmichelleN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there, my name is Michelle!
+I have worked with the following languages:
+- Java
+- Python
+- HTML
+- JavaScript
+- CSS
+- RISCV Assembly
+- Verilog
+
+###Current Projects:
+- Art portfolio
+- Caesar cipher
