@@ -26,5 +26,4 @@ I have worked with the following languages:
 - Verilog
 
 ### Current Projects:
-- Art portfolio
-- Caesar cipher
+- Design Portfolio
