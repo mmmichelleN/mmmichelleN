@@ -24,6 +24,4 @@ I have worked with the following languages:
 - CSS
 - RISCV Assembly
 - Verilog
-
-### Current Projects:
-- Design Portfolio
+- C
