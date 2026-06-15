@@ -14,14 +14,3 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, my name is Michelle!
-
-
-I have worked with the following languages:
-- Java
-- Python
-- HTML
-- JavaScript
-- CSS
-- RISCV Assembly
-- Verilog
-- C
